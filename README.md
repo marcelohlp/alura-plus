@@ -1,2 +1,1 @@
-# alura-plus
-Projeto desenvolvido no curso HTML e CSS: praticando HTML/CSS da Alura
+<h1><img src="./img/Logo.png"></h1>
